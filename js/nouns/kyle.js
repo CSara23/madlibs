@@ -7,5 +7,12 @@ nouns = nouns.concat([
     'raccoon',
     'blueberry',
     'pappardelle',
-    'periwinkle blue'
+    'periwinkle blue',
+    'peacock',
+    'vodka soda',
+    'mississipi mud',
+    'redhead',
+    'Giza pyramids',
+    'Virgin Islands'
+
 ]);
