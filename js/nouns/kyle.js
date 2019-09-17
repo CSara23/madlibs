@@ -13,6 +13,9 @@ nouns = nouns.concat([
     'mississipi mud',
     'redhead',
     'Giza pyramids',
-    'Virgin Islands'
+    'Virgin Islands',
+    'Belle',
+    'Metropolitan Museum of Art',
+    'California sushi roll'
 
 ]);
